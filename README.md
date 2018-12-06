@@ -1,4 +1,4 @@
 # Projekt_STD
-Magdalena Jakubczyk
-Maciej Stolarz
-Michał Różycki
+1.Magdalena Jakubczyk
+2.Maciej Stolarz
+3.Michał Różycki
