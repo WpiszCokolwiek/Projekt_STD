@@ -6,6 +6,8 @@
 
 #define MAX_LOADSTRING 100
 
+#wersja 1.0
+
 // Zmienne globalne:
 HINSTANCE hInst;                                // bieżące wystąpienie
 WCHAR szTitle[MAX_LOADSTRING];                  // Tekst paska tytułu
